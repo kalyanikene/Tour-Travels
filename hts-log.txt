@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 25 Dec 2021 23:14:05 at https://demo.w3layouts.com/demos_new/template_demo/07-03-2018/travel_tours-demo_Free/1860349693/web/index.html?_ga=2.131612937.744886612.1640454174-978852616.1640454174 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.w3layouts.com/demos_new/template_demo/07-03-2018/travel_tours-demo_Free/1860349693/web/index.html?_ga=2.131612937.744886612.1640454174-978852616.1640454174 -O1 "C:\My Web Sites\Tour Travels" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:14:07	Warning: 	File not parsed, looks like binary: https://demo.w3layouts.com/robots.txt
+
+HTTrack Website Copier/3.49-2 mirror complete in 41 seconds : 63 links scanned, 62 files written (4120482 bytes overall) [2900377 bytes received at 70740 bytes/sec], 1851026 bytes transferred using HTTP compression in 31 files, ratio 32%, 10.6 requests per connection
+(No errors, 1 warnings, 0 messages)
